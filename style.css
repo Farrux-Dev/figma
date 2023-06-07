@@ -1,1 +1,883 @@
-/*# sourceMappingURL=style.css.map */
+body {
+  overflow-x: hidden;
+}
+
+.img {
+  width: 100%;
+  position: absolute;
+  overflow-x: none;
+}
+
+.logo {
+  position: absolute;
+  margin: 20px 20px;
+}
+
+.home {
+  color: white;
+  display: inline-block;
+}
+
+.faq {
+  color: white;
+  display: inline-block;
+  margin-left: 140px;
+}
+
+.blog {
+  color: white;
+  display: inline-block;
+  margin-left: 160px;
+}
+
+.nav {
+  position: absolute;
+  display: inline-block;
+  margin-left: 800px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+.btn {
+  background-color: white;
+  display: inline-block;
+  color: black;
+  position: absolute;
+  width: 141px;
+  height: 39px;
+  border-radius: 12px;
+  margin-left: 1300px;
+  margin-top: 20px;
+}
+
+.clas {
+  color: white;
+  position: absolute;
+  font-size: 46px;
+  margin-left: 500px;
+  margin-top: 300px;
+}
+
+.edicate {
+  position: absolute;
+  color: white;
+  margin-left: 340px;
+  margin-top: 500px;
+  font-size: 46px;
+}
+
+.buy {
+  position: absolute;
+  background-color: purple;
+  color: white;
+  width: 172px;
+  height: 41px;
+  border-radius: 12px;
+  margin-top: 720px;
+  margin-left: 620px;
+}
+
+.random {
+  width: 1051px;
+  height: 484px;
+  background-color: rgb(74, 69, 69);
+  position: absolute;
+  border-radius: 22px;
+  margin-top: 766px;
+  margin-left: 370px;
+}
+
+.kard {
+  width: 260px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 104px;
+  border-radius: 20px;
+  background-color: grey;
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.minus {
+  width: 200px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 400px;
+  border-radius: 20px;
+  display: inline-block;
+  background-color: grey;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.pilus {
+  width: 200px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 80px;
+  border-radius: 20px;
+  background-color: grey;
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+.kurs {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -67px;
+  margin-left: 216px;
+  position: absolute;
+}
+
+.dol {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -65px;
+  margin-left: 480px;
+  position: absolute;
+}
+
+.ol {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -66px;
+  margin-left: 770px;
+  position: absolute;
+}
+
+.kard2 {
+  width: 260px;
+  height: 100px;
+  margin-top: 162px;
+  margin-left: 256px;
+  border-radius: 20px;
+  background: none;
+  position: absolute;
+  color: white;
+  border: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.as {
+  position: absolute;
+  color: white;
+  margin-left: 250px;
+  margin-top: 200px;
+  font-size: 20px;
+}
+
+.minus2 {
+  width: 260px;
+  height: 100px;
+  margin-top: 162px;
+  margin-left: -86px;
+  border-radius: 20px;
+  background: none;
+  position: absolute;
+  color: white;
+  border: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.sa {
+  position: absolute;
+  color: white;
+  margin-left: 516px;
+  margin-top: -64px;
+  font-size: 20px;
+}
+
+.pilus2 {
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+  margin-left: 215px;
+  position: absolute;
+  color: white;
+  background: none;
+  margin-top: 162px;
+  border: none;
+  font-size: 20px;
+}
+
+.ds {
+  position: absolute;
+  color: white;
+  margin-left: 810px;
+  margin-top: -64px;
+  font-size: 20px;
+}
+
+.contener {
+  width: 100%;
+  height: 120px;
+  background-color: black;
+  position: absolute;
+  margin-top: 1248px;
+}
+
+.log2, .log3, .log4, .log5 {
+  width: 50px;
+  height: 50px;
+  margin-left: 260px;
+  margin-top: 40px;
+}
+
+.p2, .p3, .p4, .p5 {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  display: inline-block;
+  margin-left: -400px;
+  position: absolute;
+  margin-top: 60px;
+}
+
+.p5 {
+  margin-left: 60px !important;
+  position: absolute !important;
+}
+
+.p4 {
+  margin-left: -290px !important;
+}
+
+.p3 {
+  margin-left: -600px !important;
+}
+
+.p2 {
+  margin-left: -900px !important;
+}
+
+.content {
+  width: 100%;
+  height: 800vh;
+  background-color: whitesmoke;
+  margin-top: 1368px;
+  position: absolute;
+}
+
+.shop {
+  margin-left: 200px;
+  margin-top: 200px;
+  font-size: 32px;
+  color: black;
+  font-family: monospace;
+}
+
+.shop2 {
+  font-size: 18px !important;
+  margin-left: 200px;
+  font-size: 32px;
+  color: black;
+  font-family: monospace;
+}
+
+.area {
+  margin-left: 940px;
+  margin-top: -280px;
+  position: absolute;
+}
+
+#myChart {
+  width: 100px;
+  height: 200px;
+  position: absolute;
+}
+
+.id {
+  width: 400px;
+  height: 480px;
+  position: absolute;
+  margin-top: 1900px;
+  margin-left: 100px;
+  color: red;
+}
+
+.rand {
+  font-size: 20px;
+  font-family: monospace;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+
+.ok {
+  font-size: 20px;
+  font-family: monospace;
+  margin-top: -26px;
+  margin-left: 84px;
+}
+
+.lor {
+  margin-left: 800px;
+  font-size: 32px;
+  font-family: monospace;
+}
+
+.lar {
+  margin-left: 800px;
+  font-size: 18px !important;
+  font-size: 32px;
+  font-family: monospace;
+}
+
+.question {
+  margin-left: 90px;
+  font-size: 18px !important;
+  font-size: 32px;
+  font-family: monospace;
+}
+
+.now {
+  margin-left: 90px;
+  font-size: 32px;
+  font-family: monospace;
+}
+
+.sud {
+  margin-left: 800px;
+  margin-top: -290px;
+}
+
+.rgb {
+  width: 90%;
+  margin-left: 84px;
+  margin-top: 100px;
+}
+
+.randomm {
+  margin-top: -390px;
+  margin-left: 554px;
+  width: 900px;
+  height: 384px;
+  background-color: rgb(74, 69, 69);
+  position: absolute;
+  border-radius: 22px;
+}
+
+.ready {
+  margin-left: 600px;
+  margin-top: 122px;
+  position: absolute;
+  font-size: 32px;
+  color: black;
+  font-family: monospace;
+}
+
+.im1, .im2, .im3 {
+  width: 360px;
+  height: 260px;
+  display: inline-block;
+  margin-left: 60px;
+  margin-top: 200px;
+}
+
+.im3 {
+  margin-left: 200px !important;
+}
+
+.im2 {
+  margin-left: 140px !important;
+}
+
+.im4, .im5, .im6 {
+  margin-top: 100px !important;
+  width: 360px;
+  height: 260px;
+  display: inline-block;
+  margin-left: 60px;
+  margin-top: 200px;
+}
+
+.im5 {
+  margin-left: 140px !important;
+}
+
+.im6 {
+  margin-left: 200px !important;
+}
+
+.im7, .im8, .im9 {
+  margin-top: 100px !important;
+  width: 360px;
+  height: 260px;
+  display: inline-block;
+  margin-left: 60px;
+  margin-top: 200px;
+}
+
+.im9 {
+  margin-left: 200px !important;
+}
+
+.rad1, .rad2, .rad3 {
+  position: absolute;
+  font-size: 14px;
+  font-family: monospace;
+  margin-left: 34px;
+  margin-top: 40px;
+}
+
+.rad4, .rad5, .rad6 {
+  position: absolute;
+  font-size: 14px;
+  font-family: monospace;
+  margin-left: 34px;
+  margin-top: 40px;
+}
+
+.rad7, .rad8, .rad9 {
+  position: absolute;
+  font-size: 14px;
+  font-family: monospace;
+  margin-left: 34px;
+  margin-top: 40px;
+}
+
+.im8 {
+  margin-left: 140px !important;
+}
+
+.kardd {
+  width: 260px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 104px;
+  border-radius: 20px;
+  background-color: grey;
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.minuss {
+  width: 200px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 400px;
+  border-radius: 20px;
+  display: inline-block;
+  background-color: grey;
+  text-align: center;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.piluss {
+  width: 200px;
+  height: 100px;
+  margin-top: 160px;
+  margin-left: 80px;
+  border-radius: 20px;
+  background-color: grey;
+  position: absolute;
+  display: inline-block;
+  color: white;
+  font-family: monospace;
+  font-size: 20px;
+  text-align: center;
+}
+
+.kurss {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -67px;
+  margin-left: 216px;
+  position: absolute;
+}
+
+.doll {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -65px;
+  margin-left: 480px;
+  position: absolute;
+}
+
+.oll {
+  font-size: 22px;
+  font-family: monospace;
+  color: white;
+  margin-top: -66px;
+  margin-left: 770px;
+  position: absolute;
+}
+
+.kard22 {
+  width: 260px;
+  height: 100px;
+  margin-top: 162px;
+  margin-left: 256px;
+  border-radius: 20px;
+  background: none;
+  position: absolute;
+  color: white;
+  border: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.ass {
+  position: absolute;
+  color: white;
+  margin-left: 250px;
+  margin-top: 200px;
+  font-size: 20px;
+}
+
+.minus22 {
+  width: 260px;
+  height: 100px;
+  margin-top: 162px;
+  margin-left: -86px;
+  border-radius: 20px;
+  background: none;
+  position: absolute;
+  color: white;
+  border: none;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.saa {
+  position: absolute;
+  color: white;
+  margin-left: 516px;
+  margin-top: -64px;
+  font-size: 20px;
+}
+
+.pilus22 {
+  width: 200px;
+  height: 100px;
+  border-radius: 20px;
+  margin-left: 215px;
+  position: absolute;
+  color: white;
+  background: none;
+  margin-top: 162px;
+  border: none;
+  font-size: 20px;
+}
+
+.dss {
+  position: absolute;
+  color: white;
+  margin-left: 810px;
+  margin-top: -64px;
+  font-size: 20px;
+}
+
+.what {
+  margin-left: 560px;
+  font-size: 32px;
+  color: black;
+  font-family: monospace;
+}
+
+.bye {
+  margin-left: 800px;
+  margin-top: 200px;
+  position: absolute;
+}
+
+.hey {
+  margin-top: 200px;
+  margin-left: 300px;
+}
+
+.meg {
+  font-size: 22px;
+  font-family: monospace;
+}
+
+.oj {
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -400px;
+}
+
+.oh {
+  position: absolute;
+  font-family: monospace;
+  font-size: 18px;
+  margin-left: 340px;
+  margin-top: -340px;
+}
+
+@media only screen and (max-width: 300px) {
+  .img {
+    width: 270px;
+  }
+  .logo {
+    width: 30px;
+  }
+}
+@media only screen and (max-width: 1420px) {
+  .btn {
+    width: 100px;
+    margin-left: 1240px;
+  }
+  .blog {
+    margin-left: 80px;
+  }
+  .buy {
+    width: 100px;
+    height: 30px;
+    margin-top: 600px;
+  }
+  .clas {
+    font-size: 30px;
+  }
+  .edicate {
+    font-size: 30px;
+  }
+  .random {
+    width: 800px;
+    height: 240px;
+    margin-left: 540px;
+    margin-top: 850px;
+    position: absolute;
+  }
+  .po {
+    margin-top: -100px;
+    margin-left: -140px;
+  }
+}
+@media only screen and (max-width: 1350px) {
+  .btn {
+    width: 80px;
+    font-size: 10px;
+    margin-left: 1200px;
+  }
+  .faq {
+    margin-left: -100px;
+  }
+  .random {
+    width: 800px;
+    height: 240px;
+    margin-left: 540px;
+    margin-top: 850px;
+    position: absolute;
+  }
+  .po {
+    margin-top: -100px;
+    margin-left: -140px;
+  }
+  .random {
+    margin-left: 500px;
+    margin-top: 820px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  .btn {
+    width: 60px;
+    height: 30px;
+    margin-top: 24px;
+    margin-left: 1000px;
+  }
+  .clas {
+    font-size: 30px;
+  }
+  .edicate {
+    font-size: 30px;
+  }
+  .buy {
+    width: 100px;
+    height: 30px;
+    margin-left: 480px;
+    margin-top: 600px;
+  }
+  .random {
+    width: 700px;
+    height: 260px;
+    margin-left: 374px;
+    border-radius: 12px;
+    margin-top: 764px;
+    margin-left: 378px;
+  }
+}
+@media only screen and (max-width: 300px) {
+  .home {
+    font-size: 10px;
+    color: white;
+    margin-left: -700px;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .faq {
+    font-size: 10px;
+    color: white;
+    margin-left: -660px;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .blog {
+    font-size: 10px;
+    color: white;
+    margin-left: -620px;
+    margin-top: 10px;
+    position: absolute;
+  }
+  .btn {
+    width: 40px;
+    height: 20px;
+    margin-left: 220px;
+    border-radius: 6px;
+    margin-top: 15px;
+    font-size: 4px;
+  }
+  .clas {
+    margin-left: 80px;
+    margin-top: 80px;
+    font-size: 12px;
+  }
+  .edicate {
+    margin-left: 50px;
+    margin-top: 108px;
+    font-size: 8px;
+  }
+  .buy {
+    margin-top: 134px;
+    position: absolute;
+    width: 80px;
+    height: 20px;
+    margin-left: 90px;
+    font-size: 8px;
+  }
+  .random {
+    margin-left: 150px;
+    margin-top: 158px;
+    border-radius: 2px;
+    width: 120px;
+    height: 50px;
+  }
+  .kard, .minus, .pilus {
+    width: 80px;
+    height: 30px;
+    font-size: 4px;
+  }
+  .kard {
+    margin-left: 10px;
+    position: absolute;
+    margin-top: 16px;
+    width: 20px;
+    height: 10px;
+    border-radius: 2px;
+  }
+  .minus {
+    margin-left: 45px;
+    margin-top: 16px;
+    width: 20px;
+    height: 10px;
+    border-radius: 2px;
+  }
+  .pilus {
+    margin-left: 10px;
+    margin-top: 16px;
+    width: 20px;
+    height: 10px;
+    border-radius: 2px;
+  }
+  .kard2, .minus2, .pilus2 {
+    width: 80px;
+    height: 30px;
+    font-size: 2px;
+  }
+}
+.try {
+  width: 306px;
+  height: 48px;
+  background-color: rgb(247, 158, 222);
+  border-radius: 20px;
+  margin-left: 360px;
+  margin-top: -200px;
+  position: absolute;
+}
+
+.o1, .o2, .o3 {
+  margin-left: 360px;
+  margin-top: -60px;
+}
+
+.buznes {
+  margin-left: 840px;
+  margin-top: -330px;
+  color: white !important;
+  position: absolute;
+  font-size: 32px;
+  color: black;
+  font-family: monospace;
+}
+
+.o8 {
+  margin-left: 820px;
+  margin-top: -260px;
+  color: white;
+  position: absolute;
+  font-size: 22px;
+  font-family: monospace;
+}
+
+.for {
+  width: 365px;
+  height: 48px;
+  background-color: whitesmoke;
+  border: none;
+  border-radius: 12px;
+  margin-left: 840px;
+  margin-top: -120px;
+  position: absolute;
+}
+
+.blackk {
+  width: 100%;
+  height: 400px;
+  position: absolute;
+  background: black;
+  margin-top: 5500px;
+}
+
+.content {
+  height: 580vh !important;
+}
+
+.sent {
+  border-radius: 12px;
+  width: 240px;
+  height: 30px;
+  margin-left: 200px;
+  margin-top: 240px;
+}
+
+.sms {
+  width: 80px;
+  height: 34px;
+  border-radius: 8px;
+}
+
+.vibrant {
+  margin-top: 60px;
+  margin-left: 90px;
+  position: absolute;
+}/*# sourceMappingURL=style.css.map */
